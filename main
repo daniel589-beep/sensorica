@@ -1,5 +1,0 @@
-unzip Repo_ESP32_aulas_aire.zip -d proyecto-iot && cd proyecto-iot
-git init && git add . && git commit -m "Proyecto IoT ESP32: aulas y calidad del aire"
-git branch -M main
-git remote add origin https://github.com/daniel589-beep/sensorica.git
-git push -u origin main
